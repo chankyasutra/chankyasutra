@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chankyasutra
+- 👋 Hi, I’m @chankya 
 - 👀 I’m interested in .. R , Python, Data Science
 - 🌱 I’m currently learning ... R and Python
 - 💞️ I’m looking to collaborate on ... R , Python
